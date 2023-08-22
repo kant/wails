@@ -91,17 +91,17 @@ creativo!
 ### Plan de Trabajo
 
 El plan de trabajo se puede encontrar
-[aqui](https://github.com/wailsapp/wails/discussions/1484). Por favor,
+[aquí](https://github.com/wailsapp/wails/discussions/1484). Por favor,
 consúltalo antes de abrir una solicitud de mejora.
 
 ## Empezando
 
-Las instrucciones de instalacion se encuentran en nuestra
-[pagina web oficial](https://wails.io/docs/gettingstarted/installation).
+Las instrucciones de instalación se encuentran en nuestra
+[página web oficial](https://wails.io/docs/gettingstarted/installation).
 
 ## Patrocinadores
 
-Este Proyecto cuenta con el apoyo de estas amables personas/ compañías:
+Este Proyecto cuenta con el apoyo de estas amables personas/compañías:
 <img src="website/static/img/sponsors.svg" style="width:100%;max-width:800px;"/>
 
 <p align="center">
@@ -118,13 +118,13 @@ Este Proyecto cuenta con el apoyo de estas amables personas/ compañías:
   menús y diálogos, por lo que podría considerarse una alternativa liviana a
   Electron.
 
-- ¿A quien esta dirigido este proyecto?
+- ¿A quien está dirigido este proyecto?
 
-  El proyecto esta dirigido a programadores de Go que desean integrar una
+  El proyecto está dirigido a programadores de Go que desean integrar una
   interfaz HMTL/JS/CSS en sus aplicaciones, sin tener que recurrir a la creación
   de un servidor y abrir el navegador para visualizarla.
 
-- ¿Cual es el significado del nombre?
+- ¿Cuál es el significado del nombre?
 
   Cuando vi WebView, pensé: "Lo que realmente quiero es una herramienta para
   construir una aplicación WebView, algo similar a lo que Rails es para Ruby".
